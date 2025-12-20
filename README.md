@@ -6,7 +6,7 @@ Este projeto apresenta um pipeline de dados completo desenvolvido no **Databrick
 
 ### 1. Ocupações de Maior Risco
 A análise identificou que o risco de automação não afeta apenas tarefas manuais, mas atinge áreas técnicas como Engenharia de IA.
-![Ranking de Risco](ranking_risco.png)
+![Ranking de Risco](grafico de barra.png)
 
 ### 2. Relação Salário vs. Risco
 Descobrimos uma correlação de **-0.0133**, provando que o salário elevado não é uma barreira contra a automação.
