@@ -24,6 +24,3 @@ O projeto segue a arquitetura de medalhão e boas práticas de modelagem:
 
 ## 📈 Conclusões
 O estudo demonstra que a resiliência profissional para 2030 depende menos de habilidades técnicas quantificáveis e mais da adaptabilidade humana, dado que a exposição à IA é transversal a quase todos os níveis salariais e de escolaridade.
-
----
-**Desenvolvido por:** [Seu Nome]
