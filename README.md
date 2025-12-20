@@ -9,8 +9,10 @@ A análise identificou que o risco de automação não afeta apenas tarefas manu
 
 <img width="1021" height="550" alt="grafico de barra" src="https://github.com/user-attachments/assets/a6c8c93d-f2c8-4972-90c5-010b80dc1097" />
 
-Relação Salário vs. Risco
+
+### 2. Relação Salário vs. Risco
 Descobrimos uma correlação de **-0.0133**, provando que o salário elevado não é uma barreira contra a automação.
+
 
 <img width="846" height="548" alt="dispersão" src="https://github.com/user-attachments/assets/f437c406-fe15-4172-8080-34cd78a2c2e0" />
 
