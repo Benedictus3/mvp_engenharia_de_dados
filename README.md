@@ -9,10 +9,12 @@ A análise identificou que o risco de automação não afeta apenas tarefas manu
 ![Ranking de Risco](grafico de barra.png)
 
 ### 2. Relação Salário vs. Risco
-Descobrimos uma correlação de **-0.0133**, provando que o salário elevado não é uma barreira contra a automação.
-![Dispersão Salário x Risco](salario_vs_risco.png)
+Descobrimos uma correlação de skill é proporcionalmente inversa em relação a sua substituição no mercado.
+
+<img width="1021" height="550" alt="grafico de barra" src="https://github.com/user-attachments/assets/a6c8c93d-f2c8-4972-90c5-010b80dc1097" />
 
 ---
+
 
 ## 🛠️ Arquitetura Técnica
 O projeto segue a arquitetura de medalhão e boas práticas de modelagem:
